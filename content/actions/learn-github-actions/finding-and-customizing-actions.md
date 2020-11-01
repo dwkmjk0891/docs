@@ -156,4 +156,5 @@ For some examples of Docker actions, see the [Docker-image.yml workflow](https:/
 
 ### Next steps
 
-To continue learning about {% data variables.product.prodname_actions %}, see "[Essential features of {% data variables.product.prodname_actions %}](/actions/learn-github-actions/essential-features-of-github-actions)."
+To continue learning about {% data variables.product.prodname_actions %}, see "[Essential features of {% data variables.product.prodname_actions %}](/actions/learn-github-actions/-features-of-github-actions)."
+essential
